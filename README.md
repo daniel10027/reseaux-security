@@ -5,3 +5,8 @@ apres avoir etudie le reseaux et la securite informatique , place aux projets de
 je presente une entreprise qui se nomme ivoire auto tech qui fourni des services.
 Elle installe des perepherique dans votre garage auto qui vous permettent de pouvoir interagir avec ce dernier via votre mobile depuis n importe quel endroit grace au reseaux et a la connection.
 On y retrouve une porte automatique un detecteur de fumer un instincteur et plusieur autre appareil.
+
+
+
+
+youtube:https://youtu.be/9r1cc4Mg2AA
